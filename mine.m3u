@@ -12,8 +12,8 @@ http://localhost:8080/almaghribia.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Awal",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
-##### #EXTINF:-1 tvg-id="2MTNT.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Awal",2M TNT
-##### https://maonline2.xyz:8443/hls/test.m3u8|Referer=https://foutni.com/&Origin=https://foutni.com&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="2MTNT.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Awal",2M TNT
+https://maonline2.xyz:8443/hls/test.m3u8|Referer=https://foutni.com/&Origin=https://foutni.com/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Awal",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
