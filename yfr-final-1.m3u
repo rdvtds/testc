@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://rdvtds.github.io/testc/epg.xml" x-tvg-url="https://rdvtds.github.io/testc/epg.xml"
+#EXTM3U url-tvg="https://rdvtds.github.io/testc/epg.xml.gz" x-tvg-url="https://rdvtds.github.io/testc/epg.xml.gz"
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="65d92a8c8b24c80008e285c0" tvg-chno="231" tvg-country="GB" group-title="UK",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
