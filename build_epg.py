@@ -8,7 +8,7 @@ PLAYLIST   = "yfr-FINAL.m3u"          # your final playlist (with fix6 applied)
 OUT_XML    = "epg.xml"
 OUT_GZ     = "epg.xml.gz"
 OUT_REPORT = "coverage.txt"
-HOURS_BACK, HOURS_AHEAD = 6, 96
+HOURS_BACK, HOURS_AHEAD = 6, 48     # ORIGINAL 96
 
 SOURCES = [                            # only files that contain your IDs
  "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
