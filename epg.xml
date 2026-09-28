@@ -278,29 +278,6 @@
     <lcn>3406</lcn>
   </channel>
   
-<programme channel="GREAT!.romance.uk" start="20260928155500 +0000" stop="20260928160000 +0000">
-    <title lang="en">Good News on GREAT!</title>
-    <desc lang="en">An uplifting round-up of good news stories from the UK and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Showbiz</category>
-    <icon src="https://images.metadata.sky.com/pd-image/48876c1f-feed-4ae5-b1a2-f5cea7af1d94/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  
-<programme channel="GREAT!.romance.uk" start="20260928160000 +0000" stop="20260928165500 +0000">
-    <title lang="en">Fixing Up Christmas</title>
-    <desc lang="en">Deck the halls with Natalie Dreyfuss. When a workaholic executive hires a festive fixer for his family's company Christmas party, sparks fly, ornaments drop and love comes down the chimney.</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c5fcb1c3-1fa2-40d3-a3c5-b168f879bb20/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  
 <programme channel="GREAT!.romance.uk" start="20260928165500 +0000" stop="20260928175000 +0000">
     <title lang="en">Christmas at the Plaza</title>
     <desc lang="en">Yuletide romance with Elizabeth Henstridge. Sparks light up the room when a historian creating an exhibition for the Plaza Hotel meets a handsome interior designer decking the iconic halls.</desc>
@@ -1200,29 +1177,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  
-<programme channel="Outdoor.America.Field.and.Stream.us2" start="20260928153000 +0000" stop="20260928160000 +0000">
-    <title lang="en">Addicted to the Outdoors</title>
-    <sub-title lang="en">Passing The Torch</sub-title>
-    <desc lang="en">Look back at Raven's journey from growing up in the outdoors, to becoming the next generation of the series, as Jon and Gina pass the torch to her this season.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Outdoors</category>
-    <category lang="en">Hunting</category>
-    <icon src="http://dtil.tmsimg.com/assets/p203446_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S19 E1</episode-num>
-    <previously-shown /></programme>
-  
-<programme channel="Outdoor.America.Field.and.Stream.us2" start="20260928160000 +0000" stop="20260928163000 +0000">
-    <title lang="en">Sporting Classics With Chris Dorsey</title>
-    <sub-title lang="en">Colorado Elk</sub-title>
-    <desc lang="en">It is an adventure of land, sea and air as Luke and Nate Dorsey pursue elk, trout, and pheasant at Colorado's epic Elk Creek Ranch.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Outdoors</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18468477_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E5</episode-num>
-    <previously-shown /></programme>
   
 <programme channel="Outdoor.America.Field.and.Stream.us2" start="20260928163000 +0000" stop="20260928170000 +0000">
     <title lang="en">Bloodline Hunting</title>
@@ -7310,46 +7264,6 @@
     </star-rating>
   </programme>
   
-<programme channel="Showtime.Next.HD.us2" start="20260928160500 +0000" stop="20260928175500 +0000">
-    <title lang="en">The Tribes of Palos Verdes</title>
-    <desc lang="en">When the Mason family moves to idyllic Palos Verdes, Calif., the father, Phil, loves it but the mother, Sandy, feels out of place among the fake tans and tennis skirts. Phil and Sandy's daughter, Medina, is a loner and outcast at school, while her charismatic brother, Jim, is effortlessly popular. When Medina and Jim take up surfing, they must prove their right to share the waves with the tough Bayboys gang that monopolizes their stretch of beach.</desc>
-    <credits>
-      <actor>Jennifer Garner</actor>
-      <actor>Maika Monroe</actor>
-      <actor>Cody Fern</actor>
-      <director>Emmett Malloy</director>
-      <director>Brendan Malloy</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14478296_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  
 <programme channel="Showtime.Next.HD.us2" start="20260928175500 +0000" stop="20260928193000 +0000">
     <title lang="en">Band Aid</title>
     <desc lang="en">Anna and Ben can't stop fighting. Advised by their therapist to try and work through their grief unconventionally, they are reminded of their shared love of music. In a last-ditch effort to save their marriage, they decide to turn all of their fights into songs, and with the help of their neighbor, Dave, they start a band.</desc>
@@ -9155,47 +9069,6 @@
     <star-rating system="TMS">
       <value>5.0/10</value>
     </star-rating>
-  </programme>
-  
-<programme channel="AWE.A.Wealth.of.Entertainment.HD.us2" start="20260928153000 +0000" stop="20260928160000 +0000">
-    <title lang="en">Behind the Gates</title>
-    <sub-title lang="en">Californian Dream</sub-title>
-    <desc lang="en">Inside the home of Jane Fonda in Beverly Hills; a bespoke house situated in Malibu with gorgeous ocean views.</desc>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">House/garden</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13227213_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E45</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme>
-  
-<programme channel="AWE.A.Wealth.of.Entertainment.HD.us2" start="20260928160000 +0000" stop="20260928170000 +0000">
-    <title lang="en">Dream Cruises</title>
-    <sub-title lang="en">RCI Brilliance of the Seas</sub-title>
-    <desc lang="en">France; Italy; Croatia.</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9789899_b_h10_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
   </programme>
   
 <programme channel="AWE.A.Wealth.of.Entertainment.HD.us2" start="20260928170000 +0000" stop="20260928173000 +0000">
@@ -13160,73 +13033,6 @@
     </rating>
   </programme>
   
-<programme channel="KQED-DT.us_locals1" start="20260928153000 +0000" stop="20260928160000 +0000">
-    <title lang="en">Carl the Collector</title>
-    <sub-title lang="en">The Square Dance; The Process</sub-title>
-    <desc lang="en">Dylan realizes he doesn't love square-dancing; Carl teaches Nico how to ride a bike.</desc>
-    <credits>
-      <actor>Kai Barham</actor>
-      <actor>Peter Laurie</actor>
-      <actor>Heather Bambrick</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Educational</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28255947_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating>
-  </programme>
-  
-<programme channel="KQED-DT.us_locals1" start="20260928160000 +0000" stop="20260928163000 +0000">
-    <title lang="en">Daniel Tiger's Neighborhood</title>
-    <sub-title lang="en">Daniel and Miss Elaina Put Their Things Away; Daniel and Prince Wednesday Put Their Things Away</sub-title>
-    <desc lang="en">After Miss Elaina loses her mitten, her mom teaches her how to put things away so she can find them later; Prince Wednesday loses his comic book.</desc>
-    <credits>
-      <actor>Asher Bolduc-Theron</actor>
-      <actor>Maya Misaljevic</actor>
-      <actor>Ted Dykstra</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Educational</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9175156_b_h8_bj.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S6 E12</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme>
-  
 <programme channel="KQED-DT.us_locals1" start="20260928163000 +0000" stop="20260928170000 +0000">
     <title lang="en">Phoebe &amp; Jay</title>
     <sub-title lang="en">Flipping Out; Jay's Cut</sub-title>
@@ -15836,14 +15642,6 @@
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/3/9/15176937.jpg" />
   </programme>
   
-<programme channel="DocuBox.HD.fr" start="20260928154500 +0000" stop="20260928163000 +0000">
-    <title lang="fr">Dream Journey</title>
-    <sub-title lang="fr">Mexico. Mérida</sub-title>
-    <category lang="fr">Documentaire</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/9/15271963.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  
 <programme channel="DocuBox.HD.fr" start="20260928163000 +0000" stop="20260928172500 +0000">
     <title lang="fr">Des bateaux et des hommes</title>
     <sub-title lang="fr">Les routiers des flots en Guyane</sub-title>
@@ -16588,16 +16386,6 @@
     <category lang="fr">Documentaire</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/1/15272190.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  
-<programme start="20260928153500 +0200" stop="20260928162500 +0200" channel="CRIME.+.INVESTIGATION.at">
-    <title lang="de">The First 48 - Momente der Entscheidung</title>
-    <sub-title lang="de">Spezialisten am Tatort</sub-title>
-    <desc lang="de">Erfahrene Ermittler der Mordkommission zeigen in drei Fällen, wie professionelle Ar-beit funktioniert. In Dallas wird im Mordfall einer Frau ermittelt, die in ihrem Haus angegriffen und getötet wurde. In Memphis muss ein Ermittler einen widerwilligen Zeugen dazu bewegen, über eine Schießerei auszusagen. Und in Dallas muss ein De-tective sein Können bei einem Verhör beweisen, um den Mord an einem Mann aufzu-klären, der an seiner Wohnungstür erschossen wurde.</desc>
-    <category lang="de">Crime</category>
-    <category lang="de">Dokumentation</category>
-    <icon src="https://files.fairu.app/8195865a-0e11-58df-bc35-c68b4903b28d/the-first-48-momente-der-entscheidungjpg.jpg" />
-    <country lang="de">USA</country>
   </programme>
   
 <programme start="20260928162500 +0200" stop="20260928173500 +0200" channel="CRIME.+.INVESTIGATION.at">
@@ -17670,11 +17458,6 @@
     <country lang="de">USA</country>
   </programme>
   
-<programme channel="Music.Box.Dance.cz" start="20260928160000 +0200" stop="20260928170000 +0200">
-    <title lang="cs">Feel The Beat</title>
-    <desc lang="cs">The best of electronic dance music – from undeground to club anthems.</desc>
-  </programme>
-  
 <programme channel="Music.Box.Dance.cz" start="20260928170000 +0200" stop="20260928180000 +0200">
     <title lang="cs">Feel The Beat</title>
     <desc lang="cs">The best of electronic dance music – from undeground to club anthems.</desc>
@@ -17978,11 +17761,6 @@
 <programme channel="Music.Box.Dance.cz" start="20260930230000 +0200" stop="20261001000000 +0200">
     <title lang="cs">Feel The Beat</title>
     <desc lang="cs">The best of electronic dance music – from undeground to club anthems.</desc>
-  </programme>
-  
-<programme channel="Music.Box.Hits.cz" start="20260928160000 +0200" stop="20260928170000 +0200">
-    <title lang="cs">Hot New Music</title>
-    <desc lang="cs">Chart-toppers and hottest new releases.</desc>
   </programme>
   
 <programme channel="Music.Box.Hits.cz" start="20260928170000 +0200" stop="20260928180000 +0200">
@@ -18290,11 +18068,6 @@
     <desc lang="cs">Chart-toppers and hottest new releases.</desc>
   </programme>
   
-<programme channel="Music.Box.cz" start="20260928160000 +0200" stop="20260928170000 +0200">
-    <title lang="cs">Najlepszy Mix Hitów</title>
-    <desc lang="cs">W programie zobaczymy starannie dobrane teledyski, obejmujące zarówno kultowe przeboje z lat 80-tych, jak i najnowsze hity. W każdym odcinku można również znaleźć interesujące informacje ze świata muzyki, showbiznesu i popularnych seriali.</desc>
-  </programme>
-  
 <programme channel="Music.Box.cz" start="20260928170000 +0200" stop="20260928180000 +0200">
     <title lang="cs">Najlepszy Mix Hitów</title>
     <desc lang="cs">W programie zobaczymy starannie dobrane teledyski, obejmujące zarówno kultowe przeboje z lat 80-tych, jak i najnowsze hity. W każdym odcinku można również znaleźć interesujące informacje ze świata muzyki, showbiznesu i popularnych seriali.</desc>
@@ -18447,18 +18220,6 @@
 <programme channel="Music.Box.cz" start="20260929230000 +0200" stop="20260930000000 +0200">
     <title lang="cs">Najlepszy Mix Hitów</title>
     <desc lang="cs">W programie zobaczymy starannie dobrane teledyski, obejmujące zarówno kultowe przeboje z lat 80-tych, jak i najnowsze hity. W każdym odcinku można również znaleźć interesujące informacje ze świata muzyki, showbiznesu i popularnych seriali.</desc>
-  </programme>
-  
-<programme start="20260928160000 +0000" stop="20260928180000 +0000" channel="XITE.nl">
-    <title lang="nl">We Love Music Videos</title>
-    <desc lang="nl">Een dagelijks aanbod van de beste muziekvideo's.</desc>
-    <category lang="nl">Muziek</category>
-    <category lang="nl">Entertainment</category>
-    <icon src="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/ImagesEPG/EventImages/p15827662_b_v12_ad.jpg?supportsTransparency=false" />
-    <country lang="nl">DE</country>
-    <rating>
-      <value>9</value>
-    </rating>
   </programme>
   
 <programme start="20260928180000 +0000" stop="20260928190000 +0000" channel="XITE.nl">
@@ -18844,7 +18605,6 @@
       <value>NA</value>
     </rating>
   </programme>
-  
 <programme channel="ATBD800001VA" start="20260928213000 +0000" stop="20260928220000 +0000">
     <title>World Sport (30m)</title>
     <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -18900,10 +18660,10 @@
     </rating>
   </programme>
   
-<programme channel="ATAJ0500428A" start="20260928193000 +0000" stop="20260928202207 +0000">
-    <title>Im Ballon über Kenia</title>
-    <desc>Abenteuer Afrika: Zebras, Gnus und Elefanten durchstreifen in großen Herden die Savannen der Maasai Mara, über den riesigen Lake Elementaita fliegen tausende Flamingos hinweg und die rote Sonne Afrikas versinkt über den grünen Hügeln des Rift Valleys - in Kenia wird jede Ballonfahrt zu einem einmaligen Erlebnis.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/AT_DEQY392104A_515149558_11_20241216T085825857Z_141_imageprocessorclient-tvplus-linear-7cd5d896cc-lsqp2.jpeg" />
+<programme channel="ATBD800001VA" start="20260929030000 +0000" stop="20260929040000 +0000">
+    <title>Laura Coates Live</title>
+    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/AT_USQT620324A_1966006374_1_20260627T030656992Z_130_imageprocessorclient-tvplus-linear-66fc4d58c8-8v7hn.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -18975,6 +18735,36 @@
     </rating>
   </programme>
   
+<programme channel="ATAJ0500428A" start="20260929021500 +0000" stop="20260929024726 +0000">
+    <title>Bike Mike: Bella Ronda Bavarica</title>
+    <sub-title>Teil 1: Starnberg - Ohlstadt</sub-title>
+    <desc>In einer Woche geht es auf ruhigen kleinen Wegen durch die beeindruckende Landschaft des bayerischen Oberlands</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/AT_DEQY392104A_1007408119_1_20250625T143607997Z_18_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  
+<programme channel="ATAJ0500428A" start="20260929024726 +0000" stop="20260929025000 +0000">
+    <title>Bike Mike: Bella Ronda Bavarica</title>
+    <sub-title>Teil 2: Ohlstadt - Garmisch-Partenkirchen</sub-title>
+    <desc>In einer Woche geht es auf ruhigen kleinen Wegen durch die beeindruckende Landschaft des bayerischen Oberlands</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/AT_DEQY392104A_1007409450_1_20250625T143607996Z_95_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  
+<programme channel="ATAJ0500428A" start="20260929025000 +0000" stop="20260929031311 +0000">
+    <title>Sprintour</title>
+    <sub-title>Unser Leben auf 6m2 in Panama</sub-title>
+    <desc>Nach der schwierigen Wohnmobilverschiffung sind wir endlich gut in Panama angekommen.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/AT_DEQY392104A_1226672822_0_20250930T115339667Z_37_imageprocessorclient-tvplus-linear-5db7c6bc99-gkp68.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  
 <programme channel="CA400004SM" start="20260928190107 +0000" stop="20260928221654 +0000">
     <title>Peter Frampton</title>
     <sub-title>FCA! 35 Tour: An Evening With Peter Frampton</sub-title>
@@ -19015,12 +18805,6 @@
     </rating>
   </programme>
   
-<programme channel="DEBC4700004VZ" start="20260928200300 +0000" stop="20260928210400 +0000">
-    <title>Komm vom Himmel</title>
-    <desc>Extremadura ist ein wahres ornithologisches Paradies. Montagus Weihen, Steinkauze, Felsentauben, Reiher…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_485761423_0_20231104T030259383Z_79.jpeg" />
-  </programme>
-  
 <programme channel="DEBC4700004VZ" start="20260928210400 +0000" stop="20260928220200 +0000">
     <title>Kinder von Saliega</title>
     <desc>Der iberische Luchs war die am stärksten gefährdete Katze der Welt, bis Saliega kam.</desc>
@@ -19057,11 +18841,10 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_485761423_0_20231104T030259383Z_79.jpeg" />
   </programme>
   
-<programme channel="GBBA220000751" start="20260928191328 +0000" stop="20260928202049 +0000">
-    <title>Wild And Alive</title>
-    <sub-title>Place of Hope</sub-title>
-    <desc>The seasons at De Hoop Nature Reserve drive a remarkable recovery for five iconic species, from the arrival of whales to the intense Bontebok rut.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1772834697_0_20260413T053407147Z_79_imageprocessorclient-tvplus-linear-74d4c47476-658k9.jpeg" />
+<programme channel="DEBC4700004VZ" start="20260929030500 +0000" stop="20260929040200 +0000">
+    <title>Kinder von Saliega</title>
+    <desc>Der iberische Luchs war die am stärksten gefährdete Katze der Welt, bis Saliega kam.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_485760431_0_20231104T030259382Z_41.jpeg" />
   </programme>
   
 <programme channel="GBBA220000751" start="20260928202049 +0000" stop="20260928212236 +0000">
@@ -19126,15 +18909,11 @@
     <desc>Shark Dive TV features Tiger Sharks, night diving with Sharks, how shark's smell, how shark coloration works and introduces us to Blue Sharks.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_846788775_0_20250501T001910244Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
   </programme>
-  
-<programme channel="GB3200006AZ" start="20260928200652 +0000" stop="20260928204132 +0000">
-    <title>Villages of Europe</title>
-    <sub-title>S1 E04</sub-title>
-    <desc>From Switzerland, more specifically Zürich, we will set off to Pfäffikon.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1126234330_4_20250813T172031802Z_76_imageprocessorclient-tvplus-linear-5db7c6bc99-fqt88.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
+<programme channel="GBBA220000751" start="20260929022102 +0000" stop="20260929032426 +0000">
+    <title>Bear Whisperer</title>
+    <sub-title>Big, Bad &amp; Bold</sub-title>
+    <desc>As tourists fill the resort, Bear Whisperer Steve Searles handles massive black bears, facing danger, tough decisions, and uneasy coexistence.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1767150221_0_20260411T011846340Z_1_imageprocessorclient-tvplus-linear-74d4c47476-msdmr.jpeg" />
   </programme>
   
 <programme channel="GB3200006AZ" start="20260928204132 +0000" stop="20260928214218 +0000">
@@ -19186,7 +18965,6 @@
       <value>3</value>
     </rating>
   </programme>
-  
 <programme channel="GB3200006AZ" start="20260929012320 +0000" stop="20260929021247 +0000">
     <title>Ireland</title>
     <sub-title>the Emerald Isle Rediscovered - S1 E02</sub-title>
@@ -19197,18 +18975,24 @@
     </rating>
   </programme>
   
-<programme channel="GB400003BM" start="20260928193957 +0000" stop="20260928201037 +0000">
-    <title>Top Million Dollar Agent</title>
-    <sub-title>City Dreams</sub-title>
-    <desc>Moving in together can be stressful but fun because you are starting a new life together! Inez's client is selling their separate properties &amp; looking for a house or condo in the city or beach area that is close to shopping, groceries, schools, etc.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_846027501_0_20250430T180001485Z_68_imageprocessorclient-tvplus-linear-6fb5b47f79-lcmj2.jpeg" />
+<programme channel="GB3200006AZ" start="20260929021247 +0000" stop="20260929030219 +0000">
+    <title>Ireland</title>
+    <sub-title>the Emerald Isle Rediscovered - S1 E03</sub-title>
+    <desc>The South of Ireland embodies the cliché 'Emerald Isle' with its mystical green landscape and dreamy lakes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1221213014_0_20250927T214041049Z_59_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
   </programme>
   
-<programme channel="GB400003BM" start="20260928201037 +0000" stop="20260928204115 +0000">
-    <title>Top Million Dollar Agent</title>
-    <sub-title>Cottage Getaways</sub-title>
-    <desc>Agreeing on a vacation home is made much harder when these top million dollar agents have astounding listings. Mike's client is looking for a waterfront cottage with lots of land &amp; privacy.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_846027501_0_20250430T180001485Z_68_imageprocessorclient-tvplus-linear-6fb5b47f79-lcmj2.jpeg" />
+<programme channel="GB3200006AZ" start="20260929030219 +0000" stop="20260929035205 +0000">
+    <title>Ireland</title>
+    <sub-title>the Emerald Isle Rediscovered - S1 E04</sub-title>
+    <desc>Ancient history and diverse influences pervade Ireland's East, where old and new collide to shape a new era.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1221214700_0_20250927T214040917Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
   </programme>
   
 <programme channel="GB400003BM" start="20260928204115 +0000" stop="20260928211003 +0000">
@@ -19274,13 +19058,11 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_850947422_0_20250502T093834112Z_87_imageprocessorclient-tvplus-linear-6fb5b47f79-x9dt2.jpeg" />
   </programme>
   
-<programme channel="IN8000186A" start="20260928192959 +0000" stop="20260928202954 +0000">
-    <title>VERSAILLES AN UNDERGROUND MEGASTRUCTURE</title>
-    <desc>If The Versailles Palace Is Renowned Throughout The World, It Is Mainly For Its Fountains  Each Year, Some 10 Million Visitors Come To Admire Them. But How Many Actually Know That They Work Thanks To 35 Km Of Piping And 70,000 M3 Of Water?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2950001257_0_20260521T135319205Z_54_imageprocessorclient-tvplus-linear-75df688c49-bl6n6.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+<programme channel="GB400003BM" start="20260929030248 +0000" stop="20260929032940 +0000">
+    <title>Epic Trails</title>
+    <sub-title>Backpacking Québec – Part 1</sub-title>
+    <desc>Eric Hanson explores epic coastal hiking routes of Gaspésie and the incredible nighttime wilderness adventures in the Eastern Township of Québec.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1227803008_0_20251001T002932869Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-l9gtj.jpeg" />
   </programme>
   
 <programme channel="IN8000186A" start="20260928202954 +0000" stop="20260928212954 +0000">
@@ -19323,6 +19105,15 @@
     <title>JOURNEYS IN INDIA</title>
     <desc>Temples with ancient erotica, a wildlife hotspot &amp; the site of Buddha's first sermon.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2949912836_1_20260521T135317946Z_1_imageprocessorclient-tvplus-linear-75df688c49-62bwb.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  
+<programme channel="IN8000186A" start="20260929022956 +0000" stop="20260929032957 +0000">
+    <title>BLACK THURSDAY IN THE BLACK THE PAN EL SAGA</title>
+    <desc>Singapore, 1985: As Glenn Knight Leads The Newly Formed Commercial Affairs Investigation Department (Caid), Housewife May Pours Her Savings Into Pan-Electric Industries. Journalist Conrad Raj Uncovers Troubling Signs As The Company'S Mounting Debt Threatens The Stock Market. When The Singapore Stock Exchange Shuts Down For Three Days, A Financial Crisis Erupts And The Hunt For The Culprits Begins.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_3477720802_0_20260915T071114770Z_1_imageprocessorclient-tvplus-linear-6b56cc9f55-pxzsk.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -21051,11 +20842,6 @@
     <category>Series</category>
   </programme>
   
-<programme channel="6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413" start="20260928160900 +0000" stop="20260928170613 +0000">
-    <title>Heavy Lifting S1 - "Look Who’s Lifting Now"</title>
-    <desc>Apprentice Eden tackles her first big lift. Dan and Francis work a hydro dam, Brad and Nathan assemble a gantry, and J.P. moves steel beams.</desc>
-  </programme>
-  
 <programme channel="6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413" start="20260928170613 +0000" stop="20260928173625 +0000">
     <title>Earthrise S1 - "Feeding The Billions"</title>
     <desc>We explore potential new strategies to satisfy the growing food demand, from restaurants growing potatoes in the air to jellyfish as a potential sustainable meat alternative.</desc>
@@ -21724,16 +21510,6 @@
 <programme channel="6a1610bebdf296985fd95603-62f42e6cad0081c6ef405723" start="20260929233028 +0000" stop="20260930012951 +0000">
     <title>The House From...</title>
     <desc>Exploring the lives of owners of iconic TV and movie homes, and how nostalgia reshapes them.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817" start="20260928153001 +0000" stop="20260928160001 +0000">
-    <title>Fox Hollow Outdoors</title>
-    <desc>Michael and Larken travel to South Carolina's Lowcountry for a massive barbecue charity event supporting children battling serious illness. After serving up smoke for a great cause, they spend an extra day in the marsh chasing redfish and speckled trout.</desc>
-  </programme>
-  
-<programme channel="6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817" start="20260928160001 +0000" stop="20260928163000 +0000">
-    <title>Wildbound by Forloh</title>
-    <desc>In this episode Andy and his friend Scotty take on Kodiak Island, Alaska for an adventure of  Salmon fishing and hunting black tail deer. Whilst traversing steep mountains in the company of Kodiak brown bears and taking on cold Alaskan waters, Andy presents useful information for fellow outdoor enthusiasts all whilst building friendships with the great people of Kodiak Big Timber Lodge.</desc>
   </programme>
   
 <programme channel="6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817" start="20260928163000 +0000" stop="20260928170001 +0000">
@@ -22495,11 +22271,6 @@
     <desc>We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
   </programme>
   
-<programme channel="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" start="20260928154647 +0000" stop="20260928161441 +0000">
-    <title>Anger Management</title>
-    <desc>Charlie intenta evitar un encuentro sexual potencialmente peligroso.</desc>
-  </programme>
-  
 <programme channel="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" start="20260928161441 +0000" stop="20260928164232 +0000">
     <title>Anger Management</title>
     <desc>Charlie desata el caos cuando sorprende a su grupo de terapia llevando a la sesión a sus padres disfuncionales</desc>
@@ -22768,11 +22539,6 @@
 <programme channel="608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4" start="20260930233203 +0000" stop="20261001010930 +0000">
     <title>Resucitados</title>
     <desc>Estudiantes de investigación hacen un mapa del cerebro humano, y accidentalmente matan a uno de ellos.</desc>
-  </programme>
-  
-<programme channel="647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959" start="20260928152410 +0000" stop="20260928161547 +0000">
-    <title>Impossible Quiz Show</title>
-    <desc>The unique game show in which questions have right answers and wrong answers, but also impossible answers!</desc>
   </programme>
   
 <programme channel="647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959" start="20260928161547 +0000" stop="20260928170540 +0000">
@@ -23105,11 +22871,6 @@
     <desc>The unique game show in which questions have right answers and wrong answers, but also impossible answers!</desc>
   </programme>
   
-<programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20260928155848 +0000" stop="20260928165956 +0000">
-    <title>Meteor Menace</title>
-    <desc>On February 15th, 2013, out of the blue, a meteorite exploded in the earth’s atmosphere above the Russian region of Chelyabinsk. The event is a reminder of the ever-present 'Meteor Menace' and the need to understand more about these missiles from outer space.</desc>
-  </programme>
-  
 <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20260928165956 +0000" stop="20260928180053 +0000">
     <title>World's Most Dangerous Railway Lines</title>
     <desc>The Tanzania-Zambia-Railway (Tazara) is one of Africa's most ambitious infrastructure projects. It connects the inland with the coast of East Africa and meant independence from the surrounding apartheid-ruled countries of East Africa. The film accompanies the Tazara on its 52-hour journey through Tanzania and Zambia and uses spectacular aerial shots to show not only the architectural monuments but also the unknown sides of the previously hidden landscapes of Tanzania and Zambia.</desc>
@@ -23360,11 +23121,6 @@
     <desc>Fearing that she is not close enough to Bliss, Helen smothers her teenage daughter with frank discussion about safe sex.</desc>
   </programme>
   
-<programme channel="647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3" start="20260928160000 +0000" stop="20260928180000 +0000">
-    <title>You Go 90s!</title>
-    <desc>90s music video hits to help you power through the afternoon.</desc>
-  </programme>
-  
 <programme channel="647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3" start="20260928180000 +0000" stop="20260928220000 +0000">
     <title>Fly 90s Afternoon</title>
     <desc>Nostalgia filled 90s music video hits.</desc>
@@ -23373,16 +23129,6 @@
 <programme channel="647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3" start="20260928220000 +0000" stop="20260929000000 +0000">
     <title>90s 4 Ever</title>
     <desc>Don't miss these 90s bangers!</desc>
-  </programme>
-  
-<programme channel="647f8d22a2fc3fadb4721685-66be8cd4871131188099527e" start="20260928154000 +0000" stop="20260928160000 +0000">
-    <title>BIG BEATS &amp; NEW DROPS</title>
-    <desc>We have nothing but the biggest certified sounds and the newest drops right now</desc>
-  </programme>
-  
-<programme channel="647f8d22a2fc3fadb4721685-66be8cd4871131188099527e" start="20260928160000 +0000" stop="20260928180000 +0000">
-    <title>FOCUS UK</title>
-    <desc>Join us right now on Trace UK as we're rounding up all the biggest beats from some of your favourite artists in our focus playlist</desc>
   </programme>
   
 <programme channel="647f8d22a2fc3fadb4721685-66be8cd4871131188099527e" start="20260928180000 +0000" stop="20260928185000 +0000">
@@ -23413,11 +23159,6 @@
 <programme channel="647f8d22a2fc3fadb4721685-66be8cd4871131188099527e" start="20260928235000 +0000" stop="20260929000000 +0000">
     <title>BIG BEATS &amp; NEW DROPS</title>
     <desc>We have nothing but the biggest certified sounds and the newest drops right now</desc>
-  </programme>
-  
-<programme channel="6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444" start="20260928160000 +0000" stop="20260928170000 +0000">
-    <title>Nature Time</title>
-    <desc>Il est temps de se rapprocher de la nature. Appréciée par tous, tous âges et tous niveaux, NatureTime est une chaîne de streaming gratuite qui propose des histoires captivantes sur la faune et la nature du monde entier.</desc>
   </programme>
   
 <programme channel="6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444" start="20260928170000 +0000" stop="20260928180000 +0000">
@@ -23692,11 +23433,6 @@
 <programme channel="6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444" start="20260930230000 +0000" stop="20261001000000 +0000">
     <title>Nature Time</title>
     <desc>Il est temps de se rapprocher de la nature. Appréciée par tous, tous âges et tous niveaux, NatureTime est une chaîne de streaming gratuite qui propose des histoires captivantes sur la faune et la nature du monde entier.</desc>
-  </programme>
-  
-<programme channel="6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff" start="20260928155400 +0000" stop="20260928162600 +0000">
-    <title>Close Up</title>
-    <desc>La carrière, la vie privée, la filmographie et les secrets de vos stars hollywoodiennes préférées.</desc>
   </programme>
   
 <programme channel="6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff" start="20260928162600 +0000" stop="20260928165600 +0000">
@@ -24068,11 +23804,6 @@
     <desc>Les parcours de Florence Foresti, Omar Sy et Stromae, de leurs débuts au sommet de leur carrière.</desc>
   </programme>
   
-<programme channel="64305451fc3be5947773c339-664e9d95e8824b0c34762787" start="20260928153829 +0000" stop="20260928171730 +0000">
-    <title>Hidden Truth</title>
-    <desc>(2016) Intense thriller with Sarah Lind. After her brother is accused of murder, Jamie tries to clear his name, uncovering dark secrets and a killer who will do anything to get away with it...</desc>
-  </programme>
-  
 <programme channel="64305451fc3be5947773c339-664e9d95e8824b0c34762787" start="20260928171730 +0000" stop="20260928184939 +0000">
     <title>Lies and Deception</title>
     <desc>(2005) Thriller with Twin Peaks star Mädchen Amick. A private investigator helps a women discover the truth about her husband's apparent suicide.</desc>
@@ -24286,11 +24017,6 @@
 <programme channel="64305451fc3be5947773c339-664e9d95e8824b0c34762787" start="20260930235101 +0000" stop="20261001012829 +0000">
     <title>The Double</title>
     <desc>Richard Gere stars as a retired CIA operative who is brought back to hunt the killer of a US Senator in this thriller.</desc>
-  </programme>
-  
-<programme channel="64305451fc3be5947773c339-6448b4e8af92c31f4a190c25" start="20260928160058 +0000" stop="20260928181013 +0000">
-    <title>Alter</title>
-    <desc>Alter, a psychological thriller about a man who is convinced that he’s found his childhood abductor, and is determined to get him to confess by any means necessary.</desc>
   </programme>
   
 <programme channel="64305451fc3be5947773c339-6448b4e8af92c31f4a190c25" start="20260928181013 +0000" stop="20260928195503 +0000">
