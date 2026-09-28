@@ -81,3 +81,11 @@ import os
 print(f"epg.xml   {os.path.getsize(OUT_XML)/1e6:.2f} MB")
 print(f"epg.xml.gz {os.path.getsize(OUT_GZ)/1e6:.2f} MB")
 print("\n".join(lines))
+
+
+
+
+import zipfile
+with zipfile.ZipFile("epg.zip", "w", zipfile.ZIP_DEFLATED) as z:
+    z.write(OUT_XML, "epg.xml")
+print("epg.zip written")
