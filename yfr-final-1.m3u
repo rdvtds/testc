@@ -6,8 +6,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="208" tvg-country="GB" group-title="UK",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="ATBD800001VA" tvg-chno="1" tvg-country="US" group-title="USA",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+####EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="ATBD800001VA" tvg-chno="1" tvg-country="US" group-title="USA",CNN
+###https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="3" tvg-country="US" group-title="USA",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
