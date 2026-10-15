@@ -7,7 +7,7 @@
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
-#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBFFMM
+#EXTINF:-1  tvg-name="BBFFMM TV" tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Business",BBFFMM
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 
 
