@@ -15,9 +15,6 @@ http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="3" tvg-country="US" group-title="USA",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-name="Stryk TV" tvg-logo="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png" tvg-chno="4" tvg-country="US" group-title="USA",Stryk TV
-https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
-
 #EXTINF:-1 tvg-id="483af83e821059b8b3f0825ae2d43e31" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
@@ -42,9 +39,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBoBYUI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/bbc_first/index.m3u8
-
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-669994d717c9985deeb74e3b" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63d6f6c5a9e88ee909e7ee1f" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
