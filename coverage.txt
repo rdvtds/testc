@@ -1,53 +1,53 @@
-   105  Outdoor.America.Field.and.Stream.us2
-    95  AWE.A.Wealth.of.Entertainment.HD.us2
-    94  6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817
-    91  DocuBox.HD.fr
-    90  GREAT!.romance.uk
-    88  483af83e821059b8b3f0825ae2d43e31
+   107  Outdoor.America.Field.and.Stream.us2
+    94  AWE.A.Wealth.of.Entertainment.HD.us2
+    89  GREAT!.romance.uk
+    86  483af83e821059b8b3f0825ae2d43e31
+    83  DocuBox.HD.fr
     82  41a03e0853d45c06bdfdedc5d26b78d8
-    77  KQED-DT.us_locals1
-    72  CRIME.+.INVESTIGATION.at
-    70  Vice.us2
-    68  6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
-    61  6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413
-    60  Music.Box.Hits.cz
-    58  Music.Box.Dance.cz
-    54  Music.Box.cz
+    78  KQED-DT.us_locals1
+    73  CRIME.+.INVESTIGATION.at
+    70  6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
+    63  Vice.us2
     54  6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444
-    49  0141916713c53d074650f14e2c9ff61e
-    49  608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4
-    46  6a1610bebdf296985fd95603-62f42e6cad0081c6ef405723
-    41  Trace.Urban.fr
+    52  0141916713c53d074650f14e2c9ff61e
+    51  608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4
+    48  Music.Box.Dance.cz
+    47  6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817
+    47  Music.Box.Hits.cz
+    44  Music.Box.cz
+    44  Trace.Urban.fr
     41  65d92a8c8b24c80008e285c0
     36  64305451fc3be5947773c339-664e9d95e8824b0c34762787
+    36  6a1610bebdf296985fd95603-62f42e6cad0081c6ef405723
+    34  6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413
     33  65b923f90cb1a100088a03ab
     32  Starz.Cinema.HD.us2
     31  Showtime.Next.HD.us2
-    31  eb1dbd690001553eacdf32d7b155b933
-    30  Cinemax.Hits.us2
+    30  eb1dbd690001553eacdf32d7b155b933
+    29  Cinemax.Hits.us2
     29  6a1610bebdf296985fd95603-63d6f6c5a9e88ee909e7ee1f
     28  5e7cb84a172a0f0007da69e4
+    26  6a1610bebdf296985fd95603-68fafe0dae4af1c7478fbeec
+    24  697140a85d851f5e69414688-669994d717c9985deeb74e3b
     24  647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959
-    23  647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154
     22  XITE.nl
+    21  647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154
     17  66df8a29b25d2b0008fc5fe0
     16  CGTN-Documentary.fr
     16  CMC.fr
     15  647f8d22a2fc3fadb4721685-66be8cd4871131188099527e
-    14  54ff7ba69222cb1c2624c584
-    13  GBBA220000751
+    13  54ff7ba69222cb1c2624c584
     13  64305451fc3be5947773c339-6448b4e8af92c31f4a190c25
-    13  ATAJ0500428A
-    13  697140a85d851f5e69414688-669994d717c9985deeb74e3b
-    10  GB400003BM
-     9  647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e
-     8  DEBC4700004VZ
-     8  ATBD800001VA
-     8  GB3200006AZ
+    12  647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e
+    12  GBBA220000751
+    11  GB400003BM
+     9  ATBD800001VA
+     8  ATAJ0500428A
+     7  DEBC4700004VZ
      7  647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3
-     7  IN8000186A
-     6  CA400004SM
-     5  6a1610bebdf296985fd95603-68fafe0dae4af1c7478fbeec
+     7  GB3200006AZ
+     6  IN8000186A
+     4  CA400004SM
      4  USBD1200007FE
 
 covered: 51/51   zero-programme: 0
