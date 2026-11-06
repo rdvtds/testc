@@ -1,54 +1,54 @@
-   104  Outdoor.America.Field.and.Stream.us2
-    98  DocuBox.HD.fr
-    97  6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
+   103  6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817
+   100  DocuBox.HD.fr
+    97  Outdoor.America.Field.and.Stream.us2
     95  AWE.A.Wealth.of.Entertainment.HD.us2
-    81  41a03e0853d45c06bdfdedc5d26b78d8
-    80  GREAT!.romance.uk
-    80  CRIME.+.INVESTIGATION.at
+    86  6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
+    82  41a03e0853d45c06bdfdedc5d26b78d8
+    81  CRIME.+.INVESTIGATION.at
     78  KQED-DT.us_locals1
-    76  6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413
-    73  483af83e821059b8b3f0825ae2d43e31
-    59  Vice.us2
+    78  GREAT!.romance.uk
+    65  483af83e821059b8b3f0825ae2d43e31
+    65  6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413
+    58  Music.Box.Dance.cz
+    57  Vice.us2
+    57  Music.Box.Hits.cz
     54  6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444
-    53  0141916713c53d074650f14e2c9ff61e
-    47  608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4
-    47  697140a85d851f5e69414688-669994d717c9985deeb74e3b
+    54  Music.Box.cz
+    49  608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4
+    46  0141916713c53d074650f14e2c9ff61e
     46  Trace.Urban.fr
-    44  Music.Box.Hits.cz
-    43  6a1610bebdf296985fd95603-5fd115b8b7ef8d002dcf1817
-    43  Music.Box.Dance.cz
-    41  Music.Box.cz
-    40  65d92a8c8b24c80008e285c0
-    38  6a1610bebdf296985fd95603-62f42e6cad0081c6ef405723
-    35  64305451fc3be5947773c339-664e9d95e8824b0c34762787
-    33  65b923f90cb1a100088a03ab
+    41  65d92a8c8b24c80008e285c0
     33  Starz.Cinema.HD.us2
-    31  Showtime.Next.HD.us2
+    33  64305451fc3be5947773c339-664e9d95e8824b0c34762787
+    33  65b923f90cb1a100088a03ab
     30  eb1dbd690001553eacdf32d7b155b933
-    29  6a1610bebdf296985fd95603-63d6f6c5a9e88ee909e7ee1f
+    30  Showtime.Next.HD.us2
     29  Cinemax.Hits.us2
-    29  5e7cb84a172a0f0007da69e4
-    22  647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959
-    20  XITE.nl
-    20  647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154
-    17  6a1610bebdf296985fd95603-68fafe0dae4af1c7478fbeec
-    17  647f8d22a2fc3fadb4721685-66be8cd4871131188099527e
+    29  6a1610bebdf296985fd95603-63d6f6c5a9e88ee909e7ee1f
+    21  697140a85d851f5e69414688-669994d717c9985deeb74e3b
+    21  647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959
+    18  647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154
+    18  647f8d22a2fc3fadb4721685-66be8cd4871131188099527e
+    18  XITE.nl
     17  66df8a29b25d2b0008fc5fe0
+    17  6a1610bebdf296985fd95603-68fafe0dae4af1c7478fbeec
     16  CMC.fr
     16  CGTN-Documentary.fr
-    13  GB400003BM
-    12  ATAJ0500428A
-    11  54ff7ba69222cb1c2624c584
+    16  6a1610bebdf296985fd95603-62f42e6cad0081c6ef405723
+    15  54ff7ba69222cb1c2624c584
+    12  GB400003BM
+    11  GBBA220000751
+    11  ATAJ0500428A
     10  64305451fc3be5947773c339-6448b4e8af92c31f4a190c25
-     9  GBBA220000751
-     8  IN8000186A
-     8  DEBC4700004VZ
-     8  647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e
-     7  GB3200006AZ
-     7  ATBD800001VA
+    10  ATBD800001VA
+    10  GB3200006AZ
+     9  647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e
+     7  DEBC4700004VZ
      6  647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3
-     5  CA400004SM
+     6  5e7cb84a172a0f0007da69e4
+     6  IN8000186A
      4  USBD1200007FE
+     4  CA400004SM
 
 covered: 51/51   zero-programme: 0
 
